@@ -15,9 +15,8 @@ This repository is used for:
 - Easy access for use in projects or messaging
 - Organizational and learning purposes related to GitHub
 
-## Disclaimer
-
-This repository may contain copyrighted material. All content is used for personal and non-commercial purposes only. If you are the rightful owner of any GIF and wish for it to be removed, please open an issue or contact me.
+> [!WARNING]
+>This repository may contain copyrighted material. All content is used for personal and non-commercial purposes only. If you are the rightful owner of any GIF and wish for it to be removed, please open an issue or contact me.
 
 ## Usage
 
